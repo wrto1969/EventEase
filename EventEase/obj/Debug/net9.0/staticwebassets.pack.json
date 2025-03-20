@@ -201,6 +201,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json",
+      "PackagePath": "staticwebassets\\sample-data\\events.json"
+    },
+    {
       "Id": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

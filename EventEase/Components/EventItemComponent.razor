@@ -1,0 +1,14 @@
+@using EventEase.Models
+
+<div class="event-list">
+    <span>@Event.Date.ToString("MMMM dd, yyyy")</span>
+    <span>
+        <a href="/eventdetail/@Event.Id">@Event.EventName</a>
+    </span>
+    <span>@Event.Location</span>
+</div>
+
+@code {
+    [Parameter]
+    public Event Event { get; set; } = default!;
+}

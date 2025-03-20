@@ -1,0 +1,61 @@
+@page "/eventdetail/{id:int}"
+@inject HttpClient Http
+
+<PageTitle>Event Details</PageTitle>
+
+<h1>Event Details</h1>
+
+@if (errorMessage != null)
+{
+    <p class="text-danger">@errorMessage</p>
+}
+else if (eventDetail == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!eventFound)
+{
+    <p><em>Event not found.</em></p>
+}
+else
+{
+    <div>
+        <p><strong>Date:</strong> @eventDetail.Date.ToString("MMMM dd, yyyy")</p>
+        <p><strong>Event Name:</strong> @eventDetail.EventName</p>
+        <p><strong>Location:</strong> @eventDetail.Location</p>
+        <p><strong>Description:</strong> @eventDetail.Description</p>
+    </div>
+    <p><a href="/eventlist">back</a></p>
+}
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Event? eventDetail;
+    private bool eventFound = true;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var events = await Http.GetFromJsonAsync<Event[]>("sample-data/events.json");
+            eventDetail = events?.FirstOrDefault(e => e.Id == Id);
+            eventFound = eventDetail != null;
+        }
+        catch (Exception ex)
+        {
+            errorMessage = "Failed to load event details. Please try again later.";
+        }
+    }
+
+    public class Event
+    {
+        public int Id { get; set; }
+        public DateOnly Date { get; set; }
+        public string EventName { get; set; } // Updated to PascalCase
+        public string Location { get; set; }  // Updated to PascalCase
+        public string Description { get; set; } // Updated to PascalCase
+    }
+}

@@ -1,0 +1,54 @@
+@page "/eventlist"
+@inject HttpClient Http
+
+<PageTitle>List of Events</PageTitle>
+
+<h1>Event List</h1>
+<p>This component demonstrates fetching data from the server.</p>
+<p><a href="/addevent">Add New Event</a></p>
+
+@if (events == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!events.Any())
+{
+    <p><em>No events available.</em></p>
+}
+else
+{
+    <div id="cntEventList">
+        <div class="event-header">
+            <span>Date</span>
+            <span>Event Name</span>
+            <span>Location</span>
+        </div>
+        @foreach (var evt in events)
+        {
+            <div class="event-list">
+                <span>@evt.Date.ToString("MMMM dd, yyyy")</span>
+                <span>
+                    <a href="/eventdetail/@evt.Id">@evt.EventName</a>
+                </span>
+                <span>@evt.Location</span>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private Event[]? events;
+
+    protected override async Task OnInitializedAsync()
+    {
+        events = await Http.GetFromJsonAsync<Event[]>("sample-data/events.json");
+    }
+
+    public class Event
+    {
+        public int Id { get; set; }
+        public DateOnly Date { get; set; }
+        public string? EventName { get; set; }  
+        public string? Location { get; set; }  
+    }
+}

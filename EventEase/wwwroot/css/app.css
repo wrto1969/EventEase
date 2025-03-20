@@ -112,3 +112,63 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+#cntEventList {
+    padding: 0.25rem;
+}
+
+#cntEventList div {
+    font-size: 0; 
+}
+#cntEventList div:nth-of-type(1) {
+    font-weight: 700;
+}
+#cntEventList div span {
+    font-size: 1rem;
+    display: inline-block;
+    width: 32%;
+    vertical-align: text-top;
+}
+#cntEventList div span a {
+    text-decoration: none;
+    color: #000;
+}
+#cntEventList div span a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#cntAddEvent {
+    padding: 0.25rem;
+}
+#cntAddEvent p { 
+    font-size: 0;
+}
+#cntAddEvent p label,
+#cntAddEvent p span {
+    font-size: 1rem;
+    display: inline-block;
+    vertical-align: text-top;
+}
+#cntAddEvent p label {
+    width: 32%;
+    text-align: right;
+    padding-right: 0.5rem;
+    font-weight: 700;
+}
+#cntAddEvent p span {
+    width: 60%;  
+}
+#cntAddEvent button {
+    background-color: orange;
+    border-radius: 20px;
+    padding: 0.1rem 1rem;
+    border: 1px solid #0071c1;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: #000;
+    text-align: center;
+}
+#cntAddEvent button:hover {
+    color: #fff;
+}

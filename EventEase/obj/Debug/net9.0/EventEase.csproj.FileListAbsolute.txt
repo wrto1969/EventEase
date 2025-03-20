@@ -6,8 +6,6 @@ C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.tr0cyonrwt.wasm
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.tsg4gsv2hg.js
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.svtof9jplc.pdb
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.zh21tv3ljh.wasm
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -292,7 +290,6 @@ C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Extensions.4921l2b5k5.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.x75qheal4m.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebProxy.tlg78s9mw3.wasm.gz
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.zh21tv3ljh.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Data.Common.6si2a0nqry.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XDocument.c8hpq78uqn.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Json.udblblravz.wasm.gz
@@ -329,7 +326,6 @@ C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.thm3r1qmen.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8bti36lthm.js.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.svtof9jplc.pdb.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.thuf78ea6u.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.Net.HttpListener.lfch2dzlma.wasm.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\System.ServiceModel.Web.dynzolko2p.wasm.gz
@@ -1065,9 +1061,6 @@ C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\75trfcm43w-tjcz0u77k5.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\lfiq0gid4h-tptq2av103.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\y62acmnqwm-lfu7j35m59.gz
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-zh21tv3ljh.gz
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-svtof9jplc.gz
-C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-ciglemy0g6.gz
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1075,11 @@ C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\refint\EventEase.dll
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\EventEase.pdb
 C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\ref\EventEase.dll
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.9dq01bv0vb.pdb
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.3rfv1eif06.wasm
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.3rfv1eif06.wasm.gz
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\bin\Debug\net9.0\wwwroot\_framework\EventEase.9dq01bv0vb.pdb.gz
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\oesxmp0mk4-lin2izqlx4.gz
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\gqx5ofl3a7-3rfv1eif06.gz
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\lw84d9mf51-9dq01bv0vb.gz
+C:\Users\wrto6\OneDrive\cSharpe\blazor\prdjBLZ\EventEase\EventEase\obj\Debug\net9.0\compressed\pqrel3z3dc-n2110mg3kx.gz

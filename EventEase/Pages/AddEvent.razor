@@ -1,0 +1,81 @@
+@page "/addevent"
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<PageTitle>Add Event</PageTitle>
+
+<h1>Add New Event</h1>
+
+@if (isSubmitted)
+{
+    <p><strong>Event added successfully!</strong></p>
+    <p><a href="/eventlist">Back to Event List</a></p>
+}
+else
+{
+    <EditForm Model="newEvent" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div id="cntAddEvent">
+            <p>
+                <label>Date:</label>
+                <span>
+                    <InputDate @bind-Value="newEvent.Date" />
+                </span>
+            </p>
+            <p>
+                <label>Event Name:</label>
+                <span>
+                    <InputText @bind-Value="newEvent.Event_Name" />
+                </span>
+            </p>
+            <p>
+                <label>Location:</label>
+                <span>
+                    <InputText @bind-Value="newEvent.Location" />
+                </span>
+            </p>
+            <p>
+                <label>Description:</label>
+                <span>
+                    <InputTextArea @bind-Value="newEvent.Description" />
+                </span>
+            </p>
+            <button type="submit">Add Event</button>
+        </div>
+    </EditForm>
+}
+
+@code {
+    private Event newEvent = new Event
+    {
+        Date = new DateOnly(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day) // Set default date today
+    };
+    private bool isSubmitted = false;
+
+    private async Task HandleValidSubmit()
+    {
+        // Simulate saving the event (e.g., send to server or update local storage)
+        var events = await Http.GetFromJsonAsync<List<Event>>("sample-data/listEvent.json");
+        events?.Add(newEvent);
+        Console.WriteLine($"New event added: {newEvent.Event_Name}");
+
+        // Optionally, save the updated list back to the server
+         await Http.PostAsJsonAsync("sample-data/events.json", events);
+
+        isSubmitted = true;
+    }
+
+    public class Event
+    {
+        public int Id { get; set; }
+
+        public DateOnly Date { get; set; }
+
+        public string Event_Name { get; set; }
+
+        public string Location { get; set; }
+        
+        public string Description { get; set; }
+    }
+}

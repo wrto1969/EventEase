@@ -120,8 +120,13 @@ code {
 #cntEventList div {
     font-size: 0; 
 }
-#cntEventList div:nth-of-type(1) {
-    font-weight: 700;
+#cntEventList h2 {
+    font-size: 1.5rem;  
+    padding: 0.25rem 0;
+    margin: 0.15rem 0 0 0; 
+}
+#cntEventList .event-header {
+    font-weight: 700;  
 }
 #cntEventList div span {
     font-size: 1rem;

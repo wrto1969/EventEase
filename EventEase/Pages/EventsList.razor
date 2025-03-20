@@ -18,18 +18,32 @@ else if (!events.Any())
 else
 {
     <div id="cntEventList">
+        <h2>Upcoming Events</h2>
         <div class="event-header">
             <span>Date</span>
             <span>Event Name</span>
             <span>Location</span>
         </div>
-        @foreach (var evt in events)
+        @foreach (var evt in events.Where(e => e.Date >= DateOnly.FromDateTime(DateTime.Today)))
         {
             <div class="event-list">
                 <span>@evt.Date.ToString("MMMM dd, yyyy")</span>
-                <span>
-                    <a href="/eventdetail/@evt.Id">@evt.EventName</a>
-                </span>
+                <span><a href="/eventdetail/@evt.Id">@evt.EventName</a></span>
+                <span>@evt.Location</span>
+            </div>
+        }
+
+        <h2>Past Events</h2>
+        <div class="event-header">
+            <span>Date</span>
+            <span>Event Name</span>
+            <span>Location</span>
+        </div>
+        @foreach (var evt in events.Where(e => e.Date < DateOnly.FromDateTime(DateTime.Today)))
+        {
+            <div class="event-list past-date">
+                <span>@evt.Date.ToString("MMMM dd, yyyy")</span>
+                <span><a href="/eventdetail/@evt.Id">@evt.EventName</a></span>
                 <span>@evt.Location</span>
             </div>
         }

@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 1,
+        "Date": "2026-11-15",
+        "EventName": "Tech Conference 2023",
+        "Location": "New York, NY",
+        "Description": "Tech Conference 2023 is a premier technology event that brings together a diverse group of IT professionals, developers, and technology enthusiasts. The conference features a wide range of sessions, workshops, and networking opportunities, covering topics such as cloud computing, artificial intelligence, cybersecurity, and more. Whether you're looking to learn about the latest trends in technology, connect with industry experts, or showcase your own work, Tech Conference 2023 has something for everyone. Join us for an exciting and informative event that will help you stay ahead of the curve in the fast-paced world of technology."
+    },
+    {
+        "Id": 2,
+        "Date": "2026-12-01",
+        "EventName": "Holiday Gala",
+        "Location": "Los Angeles, CA",
+        "Description": "Celebrate the holiday season in style at our annual Holiday Gala! Join us for an evening of festive fun, delicious food, and great company. Whether you're looking to dance the night away, enjoy a gourmet meal, or simply relax and mingle with friends, our Holiday Gala has something for everyone. Don't miss out on this special event – get your tickets today!"
+    },
+    {
+        "Id": 3,
+        "Date": "2026-01-20",
+        "EventName": "Startup Pitch Night",
+        "Location": "San Francisco, CA",
+        "Description": "Are you an aspiring entrepreneur with a great idea for a startup? Join us for Startup Pitch Night, where you'll have the opportunity to showcase your business concept to a panel of investors, mentors, and industry experts. Whether you're looking for funding, feedback, or connections, Startup Pitch Night is the perfect platform to take your startup to the next level. Don't miss this chance to shine – sign up today!"
+    },
+    {
+        "Id": 4,
+        "Date": "2026-02-14",
+        "EventName": "Valentine's Day Party",
+        "Location": "Chicago, IL", 
+        "Description": "Celebrate love and friendship at our Valentine's Day Party! Join us for an evening of romance, music, and dancing as we toast to the most romantic day of the year. Whether you're looking to spend quality time with your significant other, meet new people, or simply have a great time, our Valentine's Day Party is the perfect place to be. Don't miss out on this special event – get your tickets now and make this Valentine's Day one to remember!"
+    },
+    {
+        "Id": 5,
+        "Date": "2026-03-10",
+        "EventName": "Spring Festival",
+        "Location": "New York, NY",
+        "Description": "Celebrate the arrival of spring at our annual Spring Festival! Join us for a day of family-friendly fun, including games, activities, and entertainment for all ages. Whether you're looking to enjoy the beautiful weather, sample delicious food, or simply relax and unwind, our Spring Festival has something for everyone. Don't miss out on this special event – mark your calendar and join us for a day of springtime celebration!"
+    }
+]

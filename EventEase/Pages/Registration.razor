@@ -7,28 +7,35 @@
 <EditForm Model="@registrationModel" OnValidSubmit="HandleValidSubmit">
     <DataAnnotationsValidator />
     <ValidationSummary />
-
+<div id="registrationForm">
     <div>
         <label for="name">Name:</label>
-        <InputText id="name" @bind-Value="registrationModel.Name" class="form-control" />
-        <ValidationMessage For="@(() => registrationModel.Name)" />
+        <span>
+            <InputText id="name" @bind-Value="registrationModel.Name" class="form-control" />
+            <ValidationMessage For="@(() => registrationModel.Name)" />
+        </span>
     </div>
 
     <div>
         <label for="email">Email:</label>
-        <InputText id="email" @bind-Value="registrationModel.Email" class="form-control" />
-        <ValidationMessage For="@(() => registrationModel.Email)" />
+        <span>
+            <InputText id="email" @bind-Value="registrationModel.Email" class="form-control" />
+            <ValidationMessage For="@(() => registrationModel.Email)" />
+        </span>
     </div>
 
     <div>
         <label for="password">Password:</label>
-        <InputText id="password" @bind-Value="registrationModel.Password" type="password" class="form-control" />
-        <ValidationMessage For="@(() => registrationModel.Password)" />
+        <span>
+            <InputText id="password" @bind-Value="registrationModel.Password" type="password" class="form-control" />
+            <ValidationMessage For="@(() => registrationModel.Password)" />
+        </span>
     </div>
 
     <button type="submit" class="btn btn-primary">Register</button>
-</EditForm>
 
+</div>
+</EditForm>
 @code {
     private RegistrationModel registrationModel = new RegistrationModel();
 

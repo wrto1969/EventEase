@@ -146,11 +146,17 @@ code {
     text-decoration: underline;
     font-weight: bold;
 }
+
+#registrationForm,  
 #cntAddEvent {
     padding: 0.25rem;
 }
+#registrationForm div, 
 #cntAddEvent p { 
-    font-size: 0; 
+    font-size: 0;  
+}
+#registrationForm div {
+    padding: 0.25rem;
 }
 #cntAddEvent p:nth-of-type(1) {
    margin-bottom: 0;
@@ -161,22 +167,27 @@ code {
     text-align: center; 
     font-style: italic;
 }
+#registrationForm div label, 
 #cntAddEvent p label,
+#registrationForm div span, 
 #cntAddEvent p span {
     font-size: 1rem;
     display: inline-block;
     vertical-align: text-top;
 }
+#registrationForm div label, 
 #cntAddEvent p label {
     width: 32%;
     text-align: right;
     padding-right: 0.5rem;
     font-weight: 700;
 }
+#registrationForm div span, 
 #cntAddEvent p span {
     width: 60%;  
 }
 /* events button */
+#registrationForm button, 
 #cntEventList div button,
 #cntAddEvent button {
     background-color: orange;
@@ -188,6 +199,7 @@ code {
     color: #000;
     text-align: center;
 }
+#registrationForm button:hover, 
 #cntEventList div button:hover,
 #cntAddEvent button:hover {
     color: #fff;

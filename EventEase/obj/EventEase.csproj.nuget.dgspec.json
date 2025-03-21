@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\EventEase.csproj": {}
+    "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase-1\\EventEase\\EventEase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\EventEase.csproj": {
+    "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase-1\\EventEase\\EventEase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\EventEase.csproj",
+        "projectUniqueName": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase-1\\EventEase\\EventEase.csproj",
         "projectName": "EventEase",
-        "projectPath": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\EventEase.csproj",
+        "projectPath": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase-1\\EventEase\\EventEase.csproj",
         "packagesPath": "C:\\Users\\wrto6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\",
+        "outputPath": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase-1\\EventEase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wrto6\\AppData\\Roaming\\NuGet\\NuGet.Config"

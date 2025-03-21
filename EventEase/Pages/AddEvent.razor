@@ -1,15 +1,16 @@
 @page "/addevent"
+@using System.ComponentModel.DataAnnotations
 @inject HttpClient Http
 @inject NavigationManager Navigation
-
-<PageTitle>Add Event</PageTitle>
+ 
 
 <h1>Add New Event</h1>
 
 @if (isSubmitted)
 {
-    <p><strong>Event added successfully!</strong></p>
-    <p><a href="/eventlist">Back to Event List</a></p>
+    <h2>Success</h2>
+    <p>All is set for <strong>"@newEvent.Event_Name"</strong> on <strong>"@newEvent.Date.ToString("MMMM dd, yyyy")"</strong> in <strong>"@newEvent.Location"</strong>.</p>
+    <p><a href="/">Back to Event List</a></p>
 }
 else
 {
@@ -21,24 +22,29 @@ else
                 <label>Date:</label>
                 <span>
                     <InputDate @bind-Value="newEvent.Date" />
+                    <ValidationMessage For="@(() => newEvent.Date)" />
                 </span>
             </p>
+            <p class="small">Events can be schedule 30 days out.</p>
             <p>
                 <label>Event Name:</label>
                 <span>
                     <InputText @bind-Value="newEvent.Event_Name" />
+                    <ValidationMessage For="@(() => newEvent.Event_Name)" />
                 </span>
             </p>
             <p>
                 <label>Location:</label>
                 <span>
                     <InputText @bind-Value="newEvent.Location" />
+                    <ValidationMessage For="@(() => newEvent.Location)" />
                 </span>
             </p>
             <p>
                 <label>Description:</label>
                 <span>
                     <InputTextArea @bind-Value="newEvent.Description" />
+                    <ValidationMessage For="@(() => newEvent.Description)" />
                 </span>
             </p>
             <button type="submit">Add Event</button>
@@ -49,14 +55,15 @@ else
 @code {
     private Event newEvent = new Event
     {
-        Date = new DateOnly(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day) // Set default date today
+        //Date = new DateOnly(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day) // Set default date today
+        Date = DateOnly.FromDateTime(DateTime.Today.AddDays(30)) // Set date to 30 days from today
     };
     private bool isSubmitted = false;
 
     private async Task HandleValidSubmit()
     {
         // Simulate saving the event (e.g., send to server or update local storage)
-        var events = await Http.GetFromJsonAsync<List<Event>>("sample-data/listEvent.json");
+        var events = await Http.GetFromJsonAsync<List<Event>>("sample-data/events.json");
         events?.Add(newEvent);
         Console.WriteLine($"New event added: {newEvent.Event_Name}");
 
@@ -68,14 +75,20 @@ else
 
     public class Event
     {
-        public int Id { get; set; }
+    public int Id { get; set; }
 
-        public DateOnly Date { get; set; }
+    [Required(ErrorMessage = "The event date is required.")]
+    public DateOnly Date { get; set; }
 
-        public string Event_Name { get; set; }
+    [Required(ErrorMessage = "The event name is required.")]
+    [StringLength(100, ErrorMessage = "The event name must be less than 100 characters.")]
+    public string Event_Name { get; set; }
 
-        public string Location { get; set; }
-        
-        public string Description { get; set; }
+    [Required(ErrorMessage = "The location is required.")]
+    public string Location { get; set; }
+
+    [StringLength(500, ErrorMessage = "The description must be less than 500 characters.")]
+    public string Description { get; set; }
+    
     }
 }

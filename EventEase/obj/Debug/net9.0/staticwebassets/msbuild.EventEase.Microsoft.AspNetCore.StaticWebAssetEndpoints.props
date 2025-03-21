@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="css/app.4rcn1pjhg6.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4rcn1pjhg6"},{"Name":"integrity","Value":"sha256-sEpTjCdNGOLrOW0oQr2o1j\u002BlwxZiDw/ZZl1RWRsOm3E="},{"Name":"label","Value":"css/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5728"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sEpTjCdNGOLrOW0oQr2o1j\u002BlwxZiDw/ZZl1RWRsOm3E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 16:12:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="css/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wavC8cDTQouBdVS4UcYzLuLMmL\u002ByaEXg1JqrxoWVds0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5363"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wavC8cDTQouBdVS4UcYzLuLMmL\u002ByaEXg1JqrxoWVds0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 22:56:55 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="css/app.j7zw61rftu.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j7zw61rftu"},{"Name":"integrity","Value":"sha256-wavC8cDTQouBdVS4UcYzLuLMmL\u002ByaEXg1JqrxoWVds0="},{"Name":"label","Value":"css/app.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5363"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wavC8cDTQouBdVS4UcYzLuLMmL\u002ByaEXg1JqrxoWVds0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 22:56:55 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sEpTjCdNGOLrOW0oQr2o1j\u002BlwxZiDw/ZZl1RWRsOm3E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5728"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sEpTjCdNGOLrOW0oQr2o1j\u002BlwxZiDw/ZZl1RWRsOm3E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 16:12:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="EventEase.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventEase.styles.css'))</AssetFile>
@@ -588,17 +588,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yc120fpgh7"},{"Name":"integrity","Value":"sha256-nmC13WNhPFHeU5sQUik7RGccY8Vo0Ju\u002BM9n\u002B2L9J\u002B7I="},{"Name":"label","Value":"lib/bootstrap/dist/js/bootstrap.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"145401"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022nmC13WNhPFHeU5sQUik7RGccY8Vo0Ju\u002BM9n\u002B2L9J\u002B7I=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 15:48:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="sample-data/events.2771jpjjgo.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\events.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2771jpjjgo"},{"Name":"integrity","Value":"sha256-rsE\u002B3hkpkC1r\u002BM6EFRoMoLiIMXLc4ERhD2bLhYY34uY="},{"Name":"label","Value":"sample-data/events.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2003"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022rsE\u002B3hkpkC1r\u002BM6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 15:48:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/events.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\events.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2003"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 19:18:38 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="sample-data/events.lin2izqlx4.json">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\events.json'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lin2izqlx4"},{"Name":"integrity","Value":"sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="},{"Name":"label","Value":"sample-data/events.json"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2003"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 19:18:38 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rsE\u002B3hkpkC1r\u002BM6EFRoMoLiIMXLc4ERhD2bLhYY34uY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2003"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022rsE\u002B3hkpkC1r\u002BM6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 15:48:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="sample-data/weather.iag0ou56lh.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</AssetFile>

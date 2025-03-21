@@ -19,7 +19,10 @@ a, .btn-link {
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
-
+.nav-item {
+    text-transform: uppercase;
+    font-weight: 700;
+}
 .content {
     padding-top: 1.1rem;
 }
@@ -119,6 +122,8 @@ code {
 
 #cntEventList div {
     font-size: 0; 
+    line-height: 1rem; 
+    padding: 0.1rem 0 0.2rem 0;
 }
 #cntEventList h2 {
     font-size: 1.5rem;  
@@ -131,8 +136,7 @@ code {
 #cntEventList div span {
     font-size: 1rem;
     display: inline-block;
-    width: 32%;
-    vertical-align: text-top;
+    width: 28%; 
 }
 #cntEventList div span a {
     text-decoration: none;
@@ -142,7 +146,6 @@ code {
     text-decoration: underline;
     font-weight: bold;
 }
-
 #cntAddEvent {
     padding: 0.25rem;
 }
@@ -173,6 +176,8 @@ code {
 #cntAddEvent p span {
     width: 60%;  
 }
+/* events button */
+#cntEventList div button,
 #cntAddEvent button {
     background-color: orange;
     border-radius: 20px;
@@ -183,6 +188,7 @@ code {
     color: #000;
     text-align: center;
 }
+#cntEventList div button:hover,
 #cntAddEvent button:hover {
     color: #fff;
 }

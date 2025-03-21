@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zypOD85y2PVVxqxXmoF9to3pk5Pq8vRPd0VseEBmlm0=",
+  "Hash": "ITivo94Jv1m4SnnbqNRlNvZexP2OuOJwd04ICCDbLfk=",
   "Source": "EventEase",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "te0l4ck5zh",
-      "Integrity": "q1b/CFRzTRuLOrc6lJVGOR9aJua4WZJRkJ6zfPVx4nA=",
+      "Fingerprint": "szhyzb0y53",
+      "Integrity": "mB7E+ByUyEheEdlr+ERCwI5jZBGbZIexamZtGgL5JcA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "3ozm3w5j5l",
-      "Integrity": "E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc=",
+      "Fingerprint": "hzsm51h7mr",
+      "Integrity": "PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\EventEase.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "evn5xzylgo",
-      "Integrity": "GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q=",
+      "Fingerprint": "iw91iwbyuw",
+      "Integrity": "nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\webcil\\EventEase.wasm"
@@ -6632,12 +6632,12 @@
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-evn5xzylgo.gz",
+      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-iw91iwbyuw.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEase#[.{fingerprint=evn5xzylgo}]!.wasm.gz",
+      "RelativePath": "_framework/EventEase#[.{fingerprint=iw91iwbyuw}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6646,8 +6646,8 @@
       "RelatedAsset": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "btznyddbz0",
-      "Integrity": "8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU=",
+      "Fingerprint": "4ds0ve1b55",
+      "Integrity": "mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm"
@@ -7451,12 +7451,12 @@
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
-      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-3ozm3w5j5l.gz",
+      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-hzsm51h7mr.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEase#[.{fingerprint=3ozm3w5j5l}]!.pdb.gz",
+      "RelativePath": "_framework/EventEase#[.{fingerprint=hzsm51h7mr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eq0i2dsv7z",
-      "Integrity": "NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU=",
+      "Fingerprint": "e3mnq9dbn8",
+      "Integrity": "ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb"
@@ -7850,12 +7850,12 @@
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-lin2izqlx4.gz",
+      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-2771jpjjgo.gz",
       "SourceId": "EventEase",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/events#[.{fingerprint=lin2izqlx4}]?.json.gz",
+      "RelativePath": "sample-data/events#[.{fingerprint=2771jpjjgo}]?.json.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7864,8 +7864,8 @@
       "RelatedAsset": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y0rj7rgkne",
-      "Integrity": "bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8=",
+      "Fingerprint": "jv539mlt6t",
+      "Integrity": "f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json"
@@ -7892,12 +7892,12 @@
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-j7zw61rftu.gz",
+      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-4rcn1pjhg6.gz",
       "SourceId": "EventEase",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=j7zw61rftu}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=4rcn1pjhg6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7906,8 +7906,8 @@
       "RelatedAsset": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "omo79iswy9",
-      "Integrity": "kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek=",
+      "Fingerprint": "4v5xso1our",
+      "Integrity": "8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\css\\app.css"
@@ -8039,7 +8039,7 @@
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-te0l4ck5zh.gz",
+      "Identity": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-szhyzb0y53.gz",
       "SourceId": "EventEase",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\",
@@ -8053,8 +8053,8 @@
       "RelatedAsset": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "010hrxslpc",
-      "Integrity": "nMa2w61MSOGt67i4sqELa5y+hC9LEGrjVbSm96l/fL0=",
+      "Fingerprint": "ilv2ooja2o",
+      "Integrity": "djQHmiubeoIIRW7Nh2B2Pg+lpKBOtY3uoWzF1eCD5p8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9691,8 +9691,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "j7zw61rftu",
-      "Integrity": "wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0=",
+      "Fingerprint": "4rcn1pjhg6",
+      "Integrity": "sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -10699,8 +10699,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lin2izqlx4",
-      "Integrity": "jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=",
+      "Fingerprint": "2771jpjjgo",
+      "Integrity": "rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\events.json"
@@ -10747,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q1b/CFRzTRuLOrc6lJVGOR9aJua4WZJRkJ6zfPVx4nA=\""
+          "Value": "\"mB7E+ByUyEheEdlr+ERCwI5jZBGbZIexamZtGgL5JcA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,18 +10761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q1b/CFRzTRuLOrc6lJVGOR9aJua4WZJRkJ6zfPVx4nA="
+          "Value": "sha256-mB7E+ByUyEheEdlr+ERCwI5jZBGbZIexamZtGgL5JcA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-te0l4ck5zh.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-szhyzb0y53.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081280988"
+          "Quality": "0.000081254571"
         }
       ],
       "ResponseHeaders": [
@@ -10782,15 +10782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12306"
         },
         {
           "Name": "ETag",
-          "Value": "\"nMa2w61MSOGt67i4sqELa5y+hC9LEGrjVbSm96l/fL0=\""
+          "Value": "\"djQHmiubeoIIRW7Nh2B2Pg+lpKBOtY3uoWzF1eCD5p8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:22:40 GMT"
+          "Value": "Fri, 21 Mar 2025 16:40:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"q1b/CFRzTRuLOrc6lJVGOR9aJua4WZJRkJ6zfPVx4nA=\""
+          "Value": "W/\"mB7E+ByUyEheEdlr+ERCwI5jZBGbZIexamZtGgL5JcA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q1b/CFRzTRuLOrc6lJVGOR9aJua4WZJRkJ6zfPVx4nA="
+          "Value": "sha256-mB7E+ByUyEheEdlr+ERCwI5jZBGbZIexamZtGgL5JcA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-te0l4ck5zh.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\pqrel3z3dc-szhyzb0y53.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10831,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12306"
         },
         {
           "Name": "Content-Type",
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nMa2w61MSOGt67i4sqELa5y+hC9LEGrjVbSm96l/fL0=\""
+          "Value": "\"djQHmiubeoIIRW7Nh2B2Pg+lpKBOtY3uoWzF1eCD5p8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:22:40 GMT"
+          "Value": "Fri, 21 Mar 2025 16:40:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nMa2w61MSOGt67i4sqELa5y+hC9LEGrjVbSm96l/fL0="
+          "Value": "sha256-djQHmiubeoIIRW7Nh2B2Pg+lpKBOtY3uoWzF1eCD5p8="
         }
       ]
     },
@@ -12791,7 +12791,7 @@
       ]
     },
     {
-      "Route": "_framework/EventEase.3ozm3w5j5l.pdb",
+      "Route": "_framework/EventEase.hzsm51h7mr.pdb",
       "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12801,7 +12801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36088"
+          "Value": "40212"
         },
         {
           "Name": "Content-Type",
@@ -12809,11 +12809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc=\""
+          "Value": "\"PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12823,7 +12823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ozm3w5j5l"
+          "Value": "hzsm51h7mr"
         },
         {
           "Name": "label",
@@ -12831,18 +12831,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc="
+          "Value": "sha256-PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.3ozm3w5j5l.pdb",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-3ozm3w5j5l.gz",
+      "Route": "_framework/EventEase.hzsm51h7mr.pdb",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-hzsm51h7mr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000036354383"
+          "Quality": "0.000032068755"
         }
       ],
       "ResponseHeaders": [
@@ -12852,15 +12852,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27506"
+          "Value": "31182"
         },
         {
           "Name": "ETag",
-          "Value": "\"NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU=\""
+          "Value": "\"ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12880,13 +12880,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc=\""
+          "Value": "W/\"PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ozm3w5j5l"
+          "Value": "hzsm51h7mr"
         },
         {
           "Name": "label",
@@ -12894,13 +12894,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc="
+          "Value": "sha256-PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.3ozm3w5j5l.pdb.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-3ozm3w5j5l.gz",
+      "Route": "_framework/EventEase.hzsm51h7mr.pdb.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-hzsm51h7mr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12909,7 +12909,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27506"
+          "Value": "31182"
         },
         {
           "Name": "Content-Type",
@@ -12917,11 +12917,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU=\""
+          "Value": "\"ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12939,7 +12939,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ozm3w5j5l"
+          "Value": "hzsm51h7mr"
         },
         {
           "Name": "label",
@@ -12947,12 +12947,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU="
+          "Value": "sha256-ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.evn5xzylgo.wasm",
+      "Route": "_framework/EventEase.iw91iwbyuw.wasm",
       "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEase.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12962,7 +12962,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34069"
+          "Value": "40725"
         },
         {
           "Name": "Content-Type",
@@ -12970,11 +12970,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q=\""
+          "Value": "\"nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12984,7 +12984,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evn5xzylgo"
+          "Value": "iw91iwbyuw"
         },
         {
           "Name": "label",
@@ -12992,18 +12992,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q="
+          "Value": "sha256-nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.evn5xzylgo.wasm",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-evn5xzylgo.gz",
+      "Route": "_framework/EventEase.iw91iwbyuw.wasm",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-iw91iwbyuw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000070766400"
+          "Quality": "0.000061854395"
         }
       ],
       "ResponseHeaders": [
@@ -13013,15 +13013,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14130"
+          "Value": "16166"
         },
         {
           "Name": "ETag",
-          "Value": "\"8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU=\""
+          "Value": "\"mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13041,13 +13041,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q=\""
+          "Value": "W/\"nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evn5xzylgo"
+          "Value": "iw91iwbyuw"
         },
         {
           "Name": "label",
@@ -13055,13 +13055,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q="
+          "Value": "sha256-nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8="
         }
       ]
     },
     {
-      "Route": "_framework/EventEase.evn5xzylgo.wasm.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-evn5xzylgo.gz",
+      "Route": "_framework/EventEase.iw91iwbyuw.wasm.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-iw91iwbyuw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13070,7 +13070,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14130"
+          "Value": "16166"
         },
         {
           "Name": "Content-Type",
@@ -13078,11 +13078,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU=\""
+          "Value": "\"mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13100,7 +13100,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "evn5xzylgo"
+          "Value": "iw91iwbyuw"
         },
         {
           "Name": "label",
@@ -13108,7 +13108,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU="
+          "Value": "sha256-mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10="
         }
       ]
     },
@@ -13123,7 +13123,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36088"
+          "Value": "40212"
         },
         {
           "Name": "Content-Type",
@@ -13131,11 +13131,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc=\""
+          "Value": "\"PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13145,18 +13145,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc="
+          "Value": "sha256-PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.pdb",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-3ozm3w5j5l.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-hzsm51h7mr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000036354383"
+          "Quality": "0.000032068755"
         }
       ],
       "ResponseHeaders": [
@@ -13166,15 +13166,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27506"
+          "Value": "31182"
         },
         {
           "Name": "ETag",
-          "Value": "\"NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU=\""
+          "Value": "\"ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13194,19 +13194,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc=\""
+          "Value": "W/\"PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E9EkIuNYsUNb10SGwGETNo/sE0dXjpRO4cwUQMhlgjc="
+          "Value": "sha256-PdWwB7HqoWd83wA1WDdkr98thRfboJhPmYYIYJozDAo="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.pdb.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-3ozm3w5j5l.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\lw84d9mf51-hzsm51h7mr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13215,7 +13215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27506"
+          "Value": "31182"
         },
         {
           "Name": "Content-Type",
@@ -13223,11 +13223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU=\""
+          "Value": "\"ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13245,7 +13245,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NurcdEsHXkpq/hwZ93Qz+iQbYVF3A917wO+gioLHysU="
+          "Value": "sha256-ZoKtNxvw6KO5dLkvynHduXFbvnLCA5oQ3WQhINUXD1k="
         }
       ]
     },
@@ -13260,7 +13260,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34069"
+          "Value": "40725"
         },
         {
           "Name": "Content-Type",
@@ -13268,11 +13268,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q=\""
+          "Value": "\"nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13282,18 +13282,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q="
+          "Value": "sha256-nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.wasm",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-evn5xzylgo.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-iw91iwbyuw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000070766400"
+          "Quality": "0.000061854395"
         }
       ],
       "ResponseHeaders": [
@@ -13303,15 +13303,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14130"
+          "Value": "16166"
         },
         {
           "Name": "ETag",
-          "Value": "\"8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU=\""
+          "Value": "\"mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13331,19 +13331,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q=\""
+          "Value": "W/\"nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GpWBdTPhJSE8VAB5LkVHkwB9ofun/ak1ayv3WfkN65Q="
+          "Value": "sha256-nhUV4ItYL8nXAv7zf5ZNmz1ewMBpOJm8y39vFvkPSB8="
         }
       ]
     },
     {
       "Route": "_framework/EventEase.wasm.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-evn5xzylgo.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\gqx5ofl3a7-iw91iwbyuw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13352,7 +13352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14130"
+          "Value": "16166"
         },
         {
           "Name": "Content-Type",
@@ -13360,11 +13360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU=\""
+          "Value": "\"mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 23:28:07 GMT"
+          "Value": "Fri, 21 Mar 2025 16:42:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13382,7 +13382,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8aQ5VqMmGAnMNfXACZiXctuVKXThZpCgTy2JlVjB1tU="
+          "Value": "sha256-mNbUifsJtOYvgXRyZI1+v8fUMUjnHff5Pofy1lzL+10="
         }
       ]
     },
@@ -71199,13 +71199,13 @@
       ]
     },
     {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-j7zw61rftu.gz",
+      "Route": "css/app.4rcn1pjhg6.css",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-4rcn1pjhg6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000432713111"
+          "Quality": "0.000410004100"
         }
       ],
       "ResponseHeaders": [
@@ -71215,19 +71215,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2310"
+          "Value": "2438"
         },
         {
           "Name": "ETag",
-          "Value": "\"kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek=\""
+          "Value": "\"8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -71243,18 +71243,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0=\""
+          "Value": "W/\"sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "4rcn1pjhg6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0="
+          "Value": "sha256-sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E="
         }
       ]
     },
     {
-      "Route": "css/app.css",
+      "Route": "css/app.4rcn1pjhg6.css",
       "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71264,7 +71272,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5363"
+          "Value": "5728"
         },
         {
           "Name": "Content-Type",
@@ -71272,121 +71280,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0=\""
+          "Value": "\"sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-j7zw61rftu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2310"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.j7zw61rftu.css",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-j7zw61rftu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000432713111"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2310"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j7zw61rftu"
+          "Value": "4rcn1pjhg6"
         },
         {
           "Name": "label",
@@ -71394,13 +71302,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0="
+          "Value": "sha256-sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E="
         }
       ]
     },
     {
-      "Route": "css/app.j7zw61rftu.css",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\css\\app.css",
+      "Route": "css/app.4rcn1pjhg6.css.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-4rcn1pjhg6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71409,7 +71317,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5363"
+          "Value": "2438"
         },
         {
           "Name": "Content-Type",
@@ -71417,56 +71325,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0=\""
+          "Value": "\"8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j7zw61rftu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wavC8cDTQouBdVS4UcYzLuLMmL+yaEXg1JqrxoWVds0="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.j7zw61rftu.css.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-j7zw61rftu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2310"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 22:56:55 GMT"
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71484,7 +71347,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "j7zw61rftu"
+          "Value": "4rcn1pjhg6"
         },
         {
           "Name": "label",
@@ -71492,7 +71355,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kJYwbzlM9/XktR/Fg8Hg18JzADGPLRncBdagYBXuxek="
+          "Value": "sha256-8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-4rcn1pjhg6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000410004100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2438"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sEpTjCdNGOLrOW0oQr2o1j+lwxZiDw/ZZl1RWRsOm3E="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\ox6amlsufo-4rcn1pjhg6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:12:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8KdjANLLuyQmmxGyX0rvUHNYSIW+C+ycuipwkHQyJR0="
         }
       ]
     },
@@ -85667,13 +85667,13 @@
       ]
     },
     {
-      "Route": "sample-data/events.json",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-lin2izqlx4.gz",
+      "Route": "sample-data/events.2771jpjjgo.json",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-2771jpjjgo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001344086022"
+          "Quality": "0.001347708895"
         }
       ],
       "ResponseHeaders": [
@@ -85683,19 +85683,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "743"
+          "Value": "741"
         },
         {
           "Name": "ETag",
-          "Value": "\"bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8=\""
+          "Value": "\"f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -85711,18 +85711,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\""
+          "Value": "W/\"rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2771jpjjgo"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/events.json"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="
+          "Value": "sha256-rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY="
         }
       ]
     },
     {
-      "Route": "sample-data/events.json",
+      "Route": "sample-data/events.2771jpjjgo.json",
       "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85740,121 +85748,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\""
+          "Value": "\"rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/events.json.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-lin2izqlx4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "743"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/events.lin2izqlx4.json",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-lin2izqlx4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001344086022"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "743"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lin2izqlx4"
+          "Value": "2771jpjjgo"
         },
         {
           "Name": "label",
@@ -85862,13 +85770,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="
+          "Value": "sha256-rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY="
         }
       ]
     },
     {
-      "Route": "sample-data/events.lin2izqlx4.json",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json",
+      "Route": "sample-data/events.2771jpjjgo.json.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-2771jpjjgo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85877,7 +85785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2003"
+          "Value": "741"
         },
         {
           "Name": "Content-Type",
@@ -85885,56 +85793,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY=\""
+          "Value": "\"f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lin2izqlx4"
-        },
-        {
-          "Name": "label",
-          "Value": "sample-data/events.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jYF3FNm2QHQX0cUPgcohmTQcl4anpKE9ZMXGdz2Z9LY="
-        }
-      ]
-    },
-    {
-      "Route": "sample-data/events.lin2izqlx4.json.gz",
-      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-lin2izqlx4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "743"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 19:18:38 GMT"
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85952,7 +85815,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lin2izqlx4"
+          "Value": "2771jpjjgo"
         },
         {
           "Name": "label",
@@ -85960,7 +85823,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bj1iYhHsYxmN4TtoYycP2qqMwnQkbQRBB0x720SmVk8="
+          "Value": "sha256-f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/events.json",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-2771jpjjgo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001347708895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/events.json",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\wwwroot\\sample-data\\events.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rsE+3hkpkC1r+M6EFRoMoLiIMXLc4ERhD2bLhYY34uY="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/events.json.gz",
+      "AssetFile": "C:\\Users\\wrto6\\OneDrive\\cSharpe\\blazor\\prdjBLZ\\EventEase\\EventEase\\obj\\Debug\\net9.0\\compressed\\oesxmp0mk4-2771jpjjgo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 15:48:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f5HWUcBtAcoW8zERKa4p1EbsUXa9uqn2ihWPHU0Zf+s="
         }
       ]
     },

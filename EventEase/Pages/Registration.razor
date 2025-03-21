@@ -2,47 +2,55 @@
 
 @using System.ComponentModel.DataAnnotations
 
-<h3>Registration Form</h3>
+<h1>Registration Form</h1>
 
-<EditForm Model="@registrationModel" OnValidSubmit="HandleValidSubmit">
-    <DataAnnotationsValidator />
-    <ValidationSummary />
+@if (isSubmitted)
+{
+    <h2>Success</h2> 
+} else {
+
 <div id="registrationForm">
-    <div>
-        <label for="name">Name:</label>
-        <span>
-            <InputText id="name" @bind-Value="registrationModel.Name" class="form-control" />
-            <ValidationMessage For="@(() => registrationModel.Name)" />
-        </span>
-    </div>
+    <EditForm Model="@registrationModel" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div>
+            <label for="name">Name:</label>
+            <span>
+                <InputText id="name" @bind-Value="registrationModel.Name" class="form-control" />
+                <ValidationMessage For="@(() => registrationModel.Name)" />
+            </span>
+        </div>
 
-    <div>
-        <label for="email">Email:</label>
-        <span>
-            <InputText id="email" @bind-Value="registrationModel.Email" class="form-control" />
-            <ValidationMessage For="@(() => registrationModel.Email)" />
-        </span>
-    </div>
+        <div>
+            <label for="email">Email:</label>
+            <span>
+                <InputText id="email" @bind-Value="registrationModel.Email" class="form-control" />
+                <ValidationMessage For="@(() => registrationModel.Email)" />
+            </span>
+        </div>
 
-    <div>
-        <label for="password">Password:</label>
-        <span>
-            <InputText id="password" @bind-Value="registrationModel.Password" type="password" class="form-control" />
-            <ValidationMessage For="@(() => registrationModel.Password)" />
-        </span>
-    </div>
+        <div>
+            <label for="password">Password:</label>
+            <span>
+                <InputText id="password" @bind-Value="registrationModel.Password" type="password" class="form-control" />
+                <ValidationMessage For="@(() => registrationModel.Password)" />
+            </span>
+        </div>
 
-    <button type="submit" class="btn btn-primary">Register</button>
-
+        <button type="submit" class="btn btn-primary">Register</button>
+    </EditForm>
 </div>
-</EditForm>
+}
+
 @code {
     private RegistrationModel registrationModel = new RegistrationModel();
 
-    private void HandleValidSubmit()
+    private bool isSubmitted = false;
+    private async Task HandleValidSubmit()
     {
         // Handle successful form submission
         Console.WriteLine("Registration successful!");
+        isSubmitted = true;
     }
 
     public class RegistrationModel
